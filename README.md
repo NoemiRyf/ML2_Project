@@ -17,7 +17,7 @@ Disposal Instructions: Based on the classified trash item, the application provi
 5. Run the Trash_Sorting_NLP.ipynb notebook step by step. This notebook utilizes natural language processing techniques to generate disposal instructions based on the classified trash items. 
 
 ## Technologies Used
-Computer Vision: TensorFlow, Keras, Convolutional Neural Networks (CNN)
+Computer Vision: TensorFlow, Keras, Convolutional Neural Networks (CNN), ResNet
 Natural Language Processing: Hugging Face Transformers, GPT-2 Language Model
 Image Processing Libraries: OpenCV, PIL
 Python Libraries: NumPy, Pandas
