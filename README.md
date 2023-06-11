@@ -15,7 +15,7 @@ Image Processing Libraries: OpenCV, PIL
 Python Libraries: NumPy, Pandas
 
 ## Dataset
-The trash classification model was trained on a diverse dataset of waste materials, including images of cardboard, glass, metal, paper, plastic, and trash items. The dataset was collected from various sources and manually annotated with corresponding class labels.
+The trash classification model was trained on a diverse dataset of waste materials, including images of cardboard, glass, metal, paper, plastic, and trash items. The dataset is from this repository: https://github.com/garythung/trashnet.
 
 ## Future Enhancements
 Model Performance Improvement: Continuously refine and fine-tune the trash classification model to enhance accuracy and robustness. For example with using more data for training.
