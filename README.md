@@ -9,7 +9,7 @@ Trash Classification: The application employs a deep learning model trained on a
 Disposal Instructions: Based on the classified trash item, the application provides clear and concise disposal instructions. These instructions guide users on how to properly dispose of the item, whether it should be recycled, placed in specific recycling containers, or discarded in regular trash bins.
 
 ## Usage
-1. Clone the repository to your Google Colab drive environment by running the following command:!git clone https://github.com/NoemiRyf/ML2_Project.git
+1. Clone the repository to your Google Colab drive environment by running the following command: !git clone https://github.com/NoemiRyf/ML2_Project.git
 2. Open the Trash_Sorting_Images.ipynb notebook located in the code folder. Make sure to adjust the paths in the notebook if necessary to match the location of the dataset and any other required files.
 3. Run the Trash_Sorting_Images.ipynb notebook step by step. This notebook utilizes computer vision techniques to classify trash items. Follow the instructions provided in the notebook to process the images and obtain classification results.
 4. After completing the image classification, you can open the Trash_Sorting_NLP.ipynb notebook from the code folder. Again, make sure to adjust the paths in the notebook if necessary to match the location of any required files.
